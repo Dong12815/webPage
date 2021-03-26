@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#CDimage{
+	width:260px;
+}
+
+#CDimage img{
+	border-radius:50%;
+}
+
+#CDimage #voice{
+	text-align: center;
+}
+
+#CDimage #music{
+	text-align: center;
+}

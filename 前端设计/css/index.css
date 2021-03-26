@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.arrow_icon::after{
+	content: "\e91e";
+	font-family: "icomoon";
+	font-size: 12px;
+}

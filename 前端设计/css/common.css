@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family: 'icomoon';
+	src:url(../fonts/icomoon.eot?tomleg);
+	src:url(../fonts/icomoon.eot?tomleg#iefix) format('embedded-opentype'),
+	    url('../fonts/icomoon.ttf?tomleg') format('truetype'),
+        url('../fonts/icomoon.woff?tomleg') format('woff'),
+        url('../fonts/icomoon.svg?tomleg#icomoon') format('svg');
+	font-size: normal;
+	font-weight: normal;
+	font-display: block;
+}
+* {
+    margin: 0;
+    padding: 0;
+    /* css3盒子模型 */
+    box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+	color: #666666;
+}
+a:hover{
+	color: #E1251B;
+}
+li{
+	list-style: none;
+}
+input{
+	border: none;
+}
